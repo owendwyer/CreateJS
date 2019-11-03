@@ -1,7 +1,6 @@
 ### 
 
 Added createjs.opd.js
-
 Added createjs.opd.min.js
 
 All the changes are in EaselJS and relate to touch events.
