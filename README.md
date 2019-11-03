@@ -1,9 +1,10 @@
-### 
+### Altered to fix touch issues
 
 Added createjs.opd.js
+
 Added createjs.opd.min.js
 
-All the changes are in EaselJS and relate to touch events.
+All the changes are in EaselJS and relate only to touch events.
 
 ## Changes
 
